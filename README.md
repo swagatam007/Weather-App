@@ -3,7 +3,8 @@
 <br>
 <p>This project is a simple weather application built using HTML, CSS, and JavaScript. It fetches real-time weather data for a specific location and displays it on a user-friendly interface.
 </p>
-<ul>Features</ul>
+<br>
+<p>Features</p>
 <li>Displays current weather conditions (temperature, description, icon)</li>
 <li>displays additional weather details (feels like, humidity, wind speed)</li>
 <p>

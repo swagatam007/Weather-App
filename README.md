@@ -4,11 +4,12 @@
 <p>This project is a simple weather application built using HTML, CSS, and JavaScript. It fetches real-time weather data for a specific location and displays it on a user-friendly interface.
 </p>
 <br>
-<p>Features</p>
+<p><strong>Features</strong>Features</p>
 <li>Displays current weather conditions (temperature, description, icon)</li>
 <li>displays additional weather details (feels like, humidity, wind speed)</li>
+<br>
 <p>
-Dependencies
+<strong>Dependencies</strong>
 <br>
 Weather API: This app requires a weather API to fetch data. You can sign up for a free API key from services like OpenWeatherMap (https://openweathermap.org/api)
 </p>
